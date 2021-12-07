@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\ExetcisesPart1\ExetcisesPart1\obj\Debug\netcoreapp3.1\ExetcisesPart1.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\ExetcisesPart1\ExetcisesPart1\obj\Debug\netcoreapp3.1\ExetcisesPart1.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\ExetcisesPart1\ExetcisesPart1\obj\Debug\netcoreapp3.1\ExetcisesPart1.AssemblyInfo.cs
+C:\Users\opilane\source\repos\ExetcisesPart1\ExetcisesPart1\obj\Debug\netcoreapp3.1\ExetcisesPart1.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\ExetcisesPart1\ExetcisesPart1\bin\Debug\netcoreapp3.1\ExetcisesPart1.exe
+C:\Users\opilane\source\repos\ExetcisesPart1\ExetcisesPart1\bin\Debug\netcoreapp3.1\ExetcisesPart1.deps.json
+C:\Users\opilane\source\repos\ExetcisesPart1\ExetcisesPart1\bin\Debug\netcoreapp3.1\ExetcisesPart1.runtimeconfig.json
+C:\Users\opilane\source\repos\ExetcisesPart1\ExetcisesPart1\bin\Debug\netcoreapp3.1\ExetcisesPart1.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\ExetcisesPart1\ExetcisesPart1\bin\Debug\netcoreapp3.1\ExetcisesPart1.dll
+C:\Users\opilane\source\repos\ExetcisesPart1\ExetcisesPart1\bin\Debug\netcoreapp3.1\ExetcisesPart1.pdb
+C:\Users\opilane\source\repos\ExetcisesPart1\ExetcisesPart1\obj\Debug\netcoreapp3.1\ExetcisesPart1.dll
+C:\Users\opilane\source\repos\ExetcisesPart1\ExetcisesPart1\obj\Debug\netcoreapp3.1\ExetcisesPart1.pdb
+C:\Users\opilane\source\repos\ExetcisesPart1\ExetcisesPart1\obj\Debug\netcoreapp3.1\ExetcisesPart1.genruntimeconfig.cache
